@@ -7,4 +7,6 @@ public class GitTestDemo {
 	}
 	public static void method1(){}
 	public static void method02(){}
+	public static void method03(){}
+	public static void method05(){}
 }
