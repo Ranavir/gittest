@@ -11,4 +11,5 @@ public class GitTestDemo {
 	public static void method04(){}
 	public static void method05(){}
 	public static void method06(){}
+	public static void mehtod07(){}
 }
