@@ -6,4 +6,5 @@ public class GitTestDemo {
 		System.out.println(02);
 	}
 	public static void method1(){}
+	public static void method02(){}
 }
